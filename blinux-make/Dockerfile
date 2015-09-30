@@ -1,4 +1,4 @@
-FROM casimir/blinux:latest
+FROM epitechcontent/blinux:latest
 MAINTAINER Martin Chaine <chaine_a@epitech.eu>
 
 RUN useradd -md /home/bill bill
