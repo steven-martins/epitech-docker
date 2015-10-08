@@ -16,6 +16,7 @@ RUN zypper -n install          \
     libSDL-devel libSDL2-devel \
     ncurses ncurses-devel      \
     php5                       \
+    python-numpy               \
     python3                    \
     ruby
 RUN zypper -n install \
