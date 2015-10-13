@@ -18,6 +18,7 @@ RUN zypper -n install          \
     php5                       \
     python-numpy               \
     python3                    \
+    python3-numpy              \
     ruby
 RUN zypper -n install \
     tmux              \
